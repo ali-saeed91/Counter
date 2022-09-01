@@ -1,0 +1,20 @@
+.counter{
+    width: 200px;
+    height: 200px;
+    background-color: #002B5B;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    font-size: 100px;
+    font-weight: 300;
+    color: white;
+}
+.counterContainer{
+    height: 80vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 40px;
+}
